@@ -1,4 +1,11 @@
-# 📡 Script Freebox API - Application Raddar
+# Aide à la configuration du client torrent de la Freebox sur Radarr, Sonarr, Lidarr...
+
+La configuration du client torrent Freebox dans les outils Radarr, Sonarr, Lidarr... est particulièrement complexe, mais tellement utile.
+
+Ce script a été testé sur une Freebox Ultra. Il vous facilitera la vie, je l'espère.
+
+
+## 📡 Script Freebox API - Application Raddar
 
 Ce script permet de créer et autoriser une application nommée "Raddar" sur votre Freebox pour obtenir un token d'accès à l'API.
 
